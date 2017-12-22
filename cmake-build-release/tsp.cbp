@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tsp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\KotlinCMakeModule\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gauthier/CLionProjects/tsp/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tsp.kexe">
+				<Option output="/Users/gauthier/CLionProjects/tsp/cmake-build-release/tsp.kexe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gauthier/CLionProjects/tsp/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 tsp.kexe"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tsp.kexe/fast">
+				<Option output="/Users/gauthier/CLionProjects/tsp/cmake-build-release/tsp.kexe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gauthier/CLionProjects/tsp/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 tsp.kexe/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gauthier/CLionProjects/tsp/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gauthier/CLionProjects/tsp/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tsp.compile">
+				<Option working_dir="/Users/gauthier/CLionProjects/tsp/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 tsp.compile"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gauthier/CLionProjects/tsp/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gauthier/CLionProjects/tsp/src/Graph.kt">
+			<Option target="tsp.kexe"/>
+			<Option target="tsp.compile"/>
+		</Unit>
+		<Unit filename="/Users/gauthier/CLionProjects/tsp/src/Greedy.kt">
+			<Option target="tsp.kexe"/>
+			<Option target="tsp.compile"/>
+		</Unit>
+		<Unit filename="/Users/gauthier/CLionProjects/tsp/src/Node.kt">
+			<Option target="tsp.kexe"/>
+			<Option target="tsp.compile"/>
+		</Unit>
+		<Unit filename="/Users/gauthier/CLionProjects/tsp/src/main.kt">
+			<Option target="tsp.kexe"/>
+			<Option target="tsp.compile"/>
+		</Unit>
+		<Unit filename="/Users/gauthier/CLionProjects/tsp/src/parseFile.kt">
+			<Option target="tsp.kexe"/>
+			<Option target="tsp.compile"/>
+		</Unit>
+		<Unit filename="/Users/gauthier/CLionProjects/tsp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/gauthier/CLionProjects/tsp/KotlinCMakeModule/CMakeKotlinInformation.cmake">
+			<Option virtualFolder="CMake Files\KotlinCMakeModule\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

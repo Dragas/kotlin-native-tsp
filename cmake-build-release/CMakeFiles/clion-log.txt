@@ -1,0 +1,16 @@
+C:\Users\Ziogas\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\173.3727.114\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -D CMAKE_Kotlin_COMPILER=/Users/gauthier/.konan/kotlin-native-macos-0.4-dev-102/bin/konanc -D CMAKE_Kotlin_CINTEROP=/Users/gauthier/.konan/kotlin-native-macos-0.4-dev-102/bin/cinterop -G "CodeBlocks - MinGW Makefiles" C:\Users\Ziogas\Desktop\projects\kotlin-native\tsp
+CMake Error at CMakeLists.txt:5 (project):
+  The CMAKE_Kotlin_COMPILER:
+
+    /Users/gauthier/.konan/kotlin-native-macos-0.4-dev-102/bin/konanc
+
+  is not a full path to an existing compiler tool.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "KOTLIN_COMPILER" or the CMake cache entry CMAKE_Kotlin_COMPILER
+  to the full path to the compiler, or to the compiler name if it is in the
+  PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Ziogas/Desktop/projects/kotlin-native/tsp/cmake-build-release/CMakeFiles/CMakeOutput.log".
